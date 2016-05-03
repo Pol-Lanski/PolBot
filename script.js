@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Hi / Hola! \n escriu CAT per parlar en català, ESP para hablar en castellano and ENG to speak in english.')
+            return bot.say('Hi / Hola! \n Escriu CAT per parlar en català. \n Escribe ESP para hablar en castellano \n Type ENG to speak in English.')
                 .then(() => 'speak');
         }
     },
