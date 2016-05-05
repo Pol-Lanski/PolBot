@@ -1,6 +1,9 @@
 {
-  "BOT": "%[Català](postback:CAT) %[Español](postback:ESP) %[English](postback:ENG)",
+  "BOT": "Escriu CAT per Català\n Escribe ESP para Español \n Type ENG for English",
   "CAT": "Ep! Sóc el Bot de'n Pol, però encara no m'ha programat en català... Diga-li que s'espavili i tecleja ENG si vols parlar amb mi en anglès!",
   "ESP": "Iepa! Soy el Bot de Pol, pero aún no me ha programado en español... Dile que se espavile y teclea ENG si quieres hablar conmigo en inglés!",
-  "ENG": "Hello! I'm Pol's bot and I can talk to you about some stuff"
+  "ENG": "Hello! I'm Pol's bot and I can talk to you about stuff like Pol’s EDUCATION, CARREER, LANGUAGES and HOBBIES.  \n The capitalised words are COMMANDS, and you can type them if you want me to explain more about a topic or to perform an action.",
+  "COMMANDS": "Already bossying around? How about you chat with me for a while and discover what I can and what I cannot do?",
+  "EDUCATION": "Pol holds a degree in JOURNALISM, inspired by the comic character Tintin and a desire to expose the unjustice in this world. He also got awarded the ICEX Internationalization SCHOLARSHIP which includes a Master's degree in INTERNATIONAL BUSINESS ADMINISTRATION. He also studied music professionally at the TALLER DE MUSICS school in Barcelona and is addicted to MOOCs in Coursera, edX, etc."
+
 }
