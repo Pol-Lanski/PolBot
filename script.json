@@ -1,5 +1,5 @@
 {
-  "BOT": "Escriu CAT per Català\n Escribe ESP para Español \n Type ENG for English",
+  "BOT": "Hi there! I'm the CST Bot and I can give you info on what the CST team in Bangkok does.",
   "CAT": "Ep! Sóc el Bot de'n Pol, però encara no m'ha programat en català... Diga-li que s'espavili i tecleja ENG si vols parlar amb mi en anglès!",
   "ESP": "Iepa! Soy el Bot de Pol, pero aún no me ha programado en español... Dile que se espavile y teclea ENG si quieres hablar conmigo en inglés!",
   "ENG": "Hello! I'm Pol's bot and I can talk to you about stuff like Pol’s EDUCATION, CARREER, LANGUAGES and HOBBIES.  \n The capitalised words are COMMANDS, and you can type them if you want me to explain more about a topic or to perform an action.",
