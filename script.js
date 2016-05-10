@@ -43,20 +43,20 @@ do not have an entry in the scripts.json file. */
     function getReply() {
                 var messages = [ "Sorry. I'm not configured with a response to your message. Text COMMANDS to see a few examples.",
                                  "Hey, I didn't understand that. I suggest sending HELP OUT",
-                                 "Text me ABOUT to learn about the JBot project.",
-                                 "You're not sending messages to an Artifical Intelligence program. Try MORE to see some other COMMANDS",
+                                 "I can't understand. Text me ABOUT to learn about the CSTbot project.",
+                                 "I'm not AI-powered and I can only understand certain COMMANDS. Try COMMANDS for more.",
                                  "The program responds to COMMANDS only. You have to send a command that I understand. :)",
-                                 "The JBot is not a human. It is just a series of files on a computer. Text ABOUT to learn more.",
-                                 "Seriously, you are wayyyyy smarter than JBot. It just knows simple COMMANDS",
+                                 "The CSTbot is not a human and can't 'really' understand you. It is just a series of files on a computer. Text ABOUT to learn more.",
+                                 "Nope, can't do. I just know very simple COMMANDS",
                                  "Yo. I do not know what you are talking about. Send me a HELLO",
-                                 "There is a ton of information in JBot. You have to use COMMANDS to find it.",
-                                 "That's interesting. Hhhmmm... I never thought of that. Maybe try HELP OUT",
+                                 "This is just an example bot. It's got no AI and definitely cannot learn from your inputs. Unless someone is reading... If I were you I'd be careful.",
+                                 "That's interesting. Hhhmmm... I never thought of that. Maybe try COMMANDS to see what I can think about.",
                                  "Can you say that again?",
-                                 "Yeah... that happens from time to time. Try COMMANDS or ABOUT.",
-                                 "That is a ton of words you just wrote there... I really don't know. Try MORE",
-                                 "Right now, punctuation throws me off. Send text without it. Try HELP OUT",
+                                 "Yeah, this is embarassing... It happens from time to time. It's really not your fault. Try COMMANDS.",
+                                 "That is a ton of words you just wrote there... I really don't know. Try ABOUT",
+                                 "The CST team is working to make me understand that. Until then, I don't get it.",
                                  "Try sending a command without punctuation.",
-                                 "I'm not programmed to ignore punctuation. So if you're sending something other than letters... I don't understand it."
+                                 "I'm not programmed to respond to that."
                                 ];
 
                 var arrayIndex = Math.floor( Math.random() * messages.length );
