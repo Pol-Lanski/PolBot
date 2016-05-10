@@ -1,9 +1,16 @@
 {
-  "BOT": "Hi there! I'm the CST Bot and I can give you info on what the CST team in Bangkok does.",
-  "CAT": "Ep! Sóc el Bot de'n Pol, però encara no m'ha programat en català... Diga-li que s'espavili i tecleja ENG si vols parlar amb mi en anglès!",
-  "ESP": "Iepa! Soy el Bot de Pol, pero aún no me ha programado en español... Dile que se espavile y teclea ENG si quieres hablar conmigo en inglés!",
-  "ENG": "Hello! I'm Pol's bot and I can talk to you about stuff like Pol’s EDUCATION, CARREER, LANGUAGES and HOBBIES.  \n The capitalised words are COMMANDS, and you can type them if you want me to explain more about a topic or to perform an action.",
-  "COMMANDS": "Already bossying around? How about you chat with me for a while and discover what I can and what I cannot do?",
-  "EDUCATION": "Pol holds a degree in JOURNALISM, inspired by the comic character Tintin and a desire to expose the unjustice in this world. He also got awarded the ICEX Internationalization SCHOLARSHIP which includes a Master's degree in INTERNATIONAL BUSINESS ADMINISTRATION.\n He also studied music professionally at the TALLER DE MUSICS school in Barcelona and is addicted to MOOCs in Coursera, edX, etc.",
-  "LANGUAGES": "I speak as many languages as Pol (or I will, once he's programmed me in all languages), and those are Catalan, Spanish, French and, well, English, as you might have noticed.\n He has done some incursions in Chinese, Hindi and Thai, but don't believe him if he says he can keep a conversation in those languages."
+  "BOT": "Hi there! I'm the CST Bot and I can give you info on what the CST team in Bangkok does. \n The capitalized words are COMMANDS, and you can type them to tell me to give you more information in a subject. Try with CST!",
+  "CST": "CST stands for Corporate STrategy, and it's the unit that pushes the boundaries of our industry to forge new ways to travel, engage with all the industry players and, obviously, find new ways to earn revenue! \n It is composed of a diverse TEAM of 13 bright minds sitting in the Bangkok office. They are helped by the NBU heads in Singapore, brave fighters with the hard task of opening new unexplored paths for 1A.",
+  "ABOUT": "I'm just a BOT created by the CST team to 1)Experiment with new PROJECTS, 2)Automate explanations about who we are in the TEAM and what we do and 3)Play around.",
+  "TEAM": "The guy at the steering wheel is SIMON, with his lieutenants NITIPHUN, MATT, ANDRE and BART, but the single most important person is GUNG, without whom the department goes to hell. The rest of the team, each with their own specialties, is formed by TEE, PAM, ARCHIE, STEPHANIE, MUAY, LUCAS and POL. Type a name to know more about them, you nosy.",
+  "COMMANDS": "So you like bossing around? A non-comprehensive list of COMMANDS is: BOT, CST, ABOUT, TEAM and the name of its members, PROJECTS, NBU and many more to come.",
+  "PROJECTS": "There is no chance to get bored at CST because we are always delving into new and interesting stuff, but it's mainly about Amadeus NEXT, creating a travel ECOSYSTEM, NBU, and the TRENDS that are going to rock the travel industry.",
+  "SIMON": "SIMON Akeroyd is the Director for Corporate Strategy and Business Development in Asia Pacific. He reports directly to Alex Luzarraga, the biggest fish in CST, and he is always one step ahead of whatever is coming, particularly the TRENDS of the industry. On his spare time he likes motorbikes and driving a rickshaw in Sri Lanka is one of his biggest adventures.",
+  "MATT": "MATT has the exceptional skill of juggling twenty lines of thought at the same time and offering you a snack at at the same time. He is in charge of creating a travel ECOSYSTEM by partnering with 3rd parties and strenghtening 1As position in the market. His passport says UK, but his heart is Australian, and his love Thai. His daughter is the CUTEST.",
+  "CUTEST": "That would be MATT's daughter.",
+  "ANDRE": "",
+  "ECOSYSTEM": "",
+  "NEXT": "",
+  "NBU": "",
+  "TRENDS": ""
 }
