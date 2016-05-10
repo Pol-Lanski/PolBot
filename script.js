@@ -42,7 +42,7 @@ module.exports = new Script({
 do not have an entry in the scripts.json file. */
     function getReply() {
                 var messages = [ "Sorry. I'm not configured with a response to your message. Text COMMANDS to see a few examples.",
-                                 "Hey, I didn't understand that. I suggest sending HELP OUT",
+                                 "Hey, I didn't understand that. I suggest sending ABOUT.",
                                  "I can't understand. Text me ABOUT to learn about the CSTbot project.",
                                  "I'm not AI-powered and I can only understand certain COMMANDS. Try COMMANDS for more.",
                                  "The program responds to COMMANDS only. You have to send a command that I understand. :)",
